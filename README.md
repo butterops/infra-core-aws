@@ -1,6 +1,6 @@
 # infra-core-aws
 
-ButterOps Infrastructure Core Services (IaC for VPC, IAM, S3 etc.) for supporting butterops community projects on aws cloud
+ButterOps Infrastructure Core Services (IaC for VPC, IAM, S3 etc.) for supporting our community projects on the aws cloud.
 
 ## Inside service modules
 
